@@ -1,2 +1,1 @@
-# krazzy-cric-app
- Cricket API POC
+# automate-deployment-on-heroku
