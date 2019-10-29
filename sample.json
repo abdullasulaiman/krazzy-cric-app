@@ -1,0 +1,150 @@
+{
+    "count": 1,
+    "pageIndex": 1,
+    "pageSize": 15,
+    "pageCount": 1,
+    "items": [
+      {
+        "id": "253802",
+        "uuid": "1db8126cfddd3caad09c178d9db45fc5",
+        "guid": "1db8126cfddd3caad09c178d9db45fc5",
+        "displayName": "Virat Kohli",
+        "shortName": "Kohli",
+        "type": "player",
+        "sport": "cricket",
+        "teamRelationships": [
+          {
+            "type": "team",
+            "displayName": "India",
+            "core": {
+              "id": "6",
+              "uid": "s:200~t:6",
+              "slug": "india",
+              "location": "India",
+              "name": "India",
+              "nickname": "India",
+              "abbreviation": "INDIA",
+              "displayName": "India",
+              "shortDisplayName": "INDIA",
+              "color": "#137dd2",
+              "isActive": true,
+              "logos": [
+                {
+                  "href": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+                  "rel": [
+                    "full",
+                    "default"
+                  ]
+                }
+              ],
+              "links": [
+                {
+                  "language": "en",
+                  "rel": [
+                    "clubhouse",
+                    "desktop"
+                  ],
+                  "href": "http://www.espn.in/cricket/team/_/id/6/india",
+                  "text": "Clubhouse",
+                  "shortText": "Clubhouse",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en",
+                  "rel": [
+                    "fixtures",
+                    "desktop"
+                  ],
+                  "href": "http://www.espn.in/cricket/scores/team/6/india",
+                  "text": "Fixtures",
+                  "shortText": "Fixtures",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en",
+                  "rel": [
+                    "statistics",
+                    "desktop"
+                  ],
+                  "href": "http://stats.espncricinfo.com/ci/engine/records/index.html?id=6;type=team",
+                  "text": "Statistics",
+                  "shortText": "Statistics",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en",
+                  "rel": [
+                    "players",
+                    "desktop"
+                  ],
+                  "href": "http://www.espncricinfo.com/ci/content/player/country.html?country=6",
+                  "text": "Players",
+                  "shortText": "Players",
+                  "isExternal": false,
+                  "isPremium": false
+                },
+                {
+                  "language": "en",
+                  "rel": [
+                    "videos",
+                    "desktop"
+                  ],
+                  "href": "http://www.espncricinfo.com/ci/content/current/video_audio/index.html?object=6",
+                  "text": "Videos",
+                  "shortText": "Videos",
+                  "isExternal": false,
+                  "isPremium": false
+                }
+              ],
+              "defaultLeague": {},
+              "isNational": true,
+              "athletes": {}
+            }
+          }
+        ],
+        "relevance": "-996249",
+        "isActive": true,
+        "isRetired": false,
+        "defaultLeagueSlug": "cricket",
+        "label": "India",
+        "uid": "s:200~a:253802",
+        "headshot": {
+          "href": "https://a.espncdn.com/i/headshots/cricket/players/full/253802.png",
+          "rel": [
+            "full",
+            "default"
+          ]
+        },
+        "links": [
+          {
+            "language": "en",
+            "rel": [
+              "playercard",
+              "desktop"
+            ],
+            "href": "http://www.espncricinfo.com/ci/content/player/253802.html",
+            "text": "Player Card",
+            "shortText": "Player Card",
+            "isExternal": false,
+            "isPremium": false
+          }
+        ],
+        "includeSponsor": false,
+        "showKey": false,
+        "isLocked": false,
+        "flag": {
+          "href": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png",
+          "width": 500,
+          "height": 500,
+          "alt": "INDIA",
+          "rel": [
+            "full",
+            "default"
+          ]
+        }
+      }
+    ]
+  }
